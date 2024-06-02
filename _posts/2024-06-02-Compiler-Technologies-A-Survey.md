@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: "Post: Standard"
 title: "Compiler Technologies in Deep Learning Co-Design: A Survey"
 date: 2024-06-02 23:52
 categories:
